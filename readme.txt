@@ -1,6 +1,7 @@
 pre-conditions: need php-cli v7 installed.
 
 Example:
+- `config.txt` is the config file for input for compiler
 - To run the compiler file: run command `php Compiler.php` in cmd
 - To run compiler for different file, update the config file name in `Compiler.php`
 
